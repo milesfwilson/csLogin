@@ -1,0 +1,15 @@
+/Users/mileswilson/source/codeworks/csLogin/bin/Debug/net5.0/csLogin.deps.json
+/Users/mileswilson/source/codeworks/csLogin/bin/Debug/net5.0/csLogin.runtimeconfig.json
+/Users/mileswilson/source/codeworks/csLogin/bin/Debug/net5.0/csLogin.runtimeconfig.dev.json
+/Users/mileswilson/source/codeworks/csLogin/bin/Debug/net5.0/csLogin.dll
+/Users/mileswilson/source/codeworks/csLogin/bin/Debug/net5.0/ref/csLogin.dll
+/Users/mileswilson/source/codeworks/csLogin/bin/Debug/net5.0/csLogin.pdb
+/Users/mileswilson/source/codeworks/csLogin/obj/Debug/net5.0/csLogin.csprojAssemblyReference.cache
+/Users/mileswilson/source/codeworks/csLogin/obj/Debug/net5.0/csLogin.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mileswilson/source/codeworks/csLogin/obj/Debug/net5.0/csLogin.AssemblyInfoInputs.cache
+/Users/mileswilson/source/codeworks/csLogin/obj/Debug/net5.0/csLogin.AssemblyInfo.cs
+/Users/mileswilson/source/codeworks/csLogin/obj/Debug/net5.0/csLogin.csproj.CoreCompileInputs.cache
+/Users/mileswilson/source/codeworks/csLogin/obj/Debug/net5.0/csLogin.dll
+/Users/mileswilson/source/codeworks/csLogin/obj/Debug/net5.0/ref/csLogin.dll
+/Users/mileswilson/source/codeworks/csLogin/obj/Debug/net5.0/csLogin.pdb
+/Users/mileswilson/source/codeworks/csLogin/obj/Debug/net5.0/csLogin.genruntimeconfig.cache
